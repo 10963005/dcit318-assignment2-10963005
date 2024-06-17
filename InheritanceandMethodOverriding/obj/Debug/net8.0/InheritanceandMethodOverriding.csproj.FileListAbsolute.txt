@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\obj\Debug\net8.0\InheritanceandMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\obj\Debug\net8.0\InheritanceandMethodOverriding.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\obj\Debug\net8.0\InheritanceandMethodOverriding.AssemblyInfo.cs
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\obj\Debug\net8.0\InheritanceandMethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\bin\Debug\net8.0\InheritanceandMethodOverriding.exe
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\bin\Debug\net8.0\InheritanceandMethodOverriding.deps.json
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\bin\Debug\net8.0\InheritanceandMethodOverriding.runtimeconfig.json
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\bin\Debug\net8.0\InheritanceandMethodOverriding.dll
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\bin\Debug\net8.0\InheritanceandMethodOverriding.pdb
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\obj\Debug\net8.0\InheritanceandMethodOverriding.dll
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\obj\Debug\net8.0\refint\InheritanceandMethodOverriding.dll
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\obj\Debug\net8.0\InheritanceandMethodOverriding.pdb
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\obj\Debug\net8.0\InheritanceandMethodOverriding.genruntimeconfig.cache
+C:\Users\HP\Documents\Code Projects\C#\Assignment 2\InheritanceandMethodOverriding\obj\Debug\net8.0\ref\InheritanceandMethodOverriding.dll
